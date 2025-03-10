@@ -1,0 +1,10 @@
+{
+  "name": "com.berkcankarabulut.BaseLevelSystem",
+  "version": "1.0.0",
+  "displayName": "Base Level System",
+  "author": {
+    "name": "BerkcanKarabulut",
+    "url": "https://github.com/berkcankarabulut"
+  }, 
+  "dependencies": {}
+}
